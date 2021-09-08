@@ -1,0 +1,26 @@
+{
+  "merchant":[
+    {
+      "name":"蜜雪冰城",
+      "address":"广西壮族自治区南宁市",
+      "introduce":"你爱我，我爱你",
+      "id":1,
+      "tel":"40088208820",
+      "score":"5",
+      "sellamount":"100",
+      "category":["yiguoliaoli","rihanliaoli"],
+      "imageUrl":"../imager/merchant/164ad0b6a3917599.jpg"
+    },
+    {
+      "name":"益禾堂",
+      "address":"广西壮族自治区南宁市",
+      "introduce":"益禾烤奶",
+      "id":2,
+      "tel":"40088208820",
+      "score":"5",
+      "sellamount":"110",
+      "category":["yiguoliaoli","rihanliaoli"],
+      "imageUrl":"../imager/merchant/164ad0b6a3917599.jpg"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "food": [
+    {
+      "name": "益禾烤奶",
+      "merchant": "益禾堂",
+      "foodid": 1,
+      "id": 1,
+      "introduce": "烤奶",
+      "address": "广西壮族自治区南宁市",
+      "score": "5",
+      "category": "热销榜",
+      "sellamount": "100",
+      "imageUrl": "../imager/merchant/164ad0b6a3917599.jpg",
+      "norm": [
+        {
+          "norm": "大杯",
+          "packagingfee": 1,
+          "price": 15
+        },
+        {
+          "norm": "中杯",
+          "packagingfee": 1,
+          "price": 12
+        },
+        {
+          "norm": "小杯",
+          "packagingfee": 1,
+          "price": 10
+        }
+      ]
+    },
+    {
+      "name": "益禾烤奶2",
+      "merchant": "益禾堂",
+      "foodid": 2,
+      "id": 2,
+      "introduce": "烤奶",
+      "address": "广西壮族自治区南宁市",
+      "score": "5",
+      "category": "冷饮",
+      "sellamount": "100",
+      "imageUrl": "../imager/merchant/164ad0b6a3917599.jpg",
+      "norm": [
+        {
+          "norm": "大杯",
+          "packagingfee": 1,
+          "price": 15
+        },
+        {
+          "norm": "中杯",
+          "packagingfee": 1,
+          "price": 12
+        },
+        {
+          "norm": "小杯",
+          "packagingfee": 1,
+          "price": 10
+        }
+      ]
+    },
+    {
+      "name": "益禾烤奶3",
+      "merchant": "益禾堂",
+      "foodid": 3,
+      "id": 3,
+      "introduce": "烤奶",
+      "address": "广西壮族自治区南宁市",
+      "score": "5",
+      "category": "冷饮",
+      "sellamount": "100",
+      "imageUrl": "../imager/merchant/164ad0b6a3917599.jpg",
+      "norm": [
+        {
+          "norm": "大杯",
+          "packagingfee": 1,
+          "price": 15
+        },
+        {
+          "norm": "中杯",
+          "packagingfee": 1,
+          "price": 12
+        },
+        {
+          "norm": "小杯",
+          "packagingfee": 1,
+          "price": 10
+        }
+      ]
+    }
+  ]
+}

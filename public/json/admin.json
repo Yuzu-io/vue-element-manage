@@ -1,0 +1,46 @@
+{
+  "admin": [
+    {
+      "username": "123",
+      "password": "123",
+      "time": 1629981201492,
+      "address":"广西",
+      "Authority":"管理员"
+    },
+    {
+      "username": "admin",
+      "password": "123456",
+      "time": 1629981201492,
+      "address":"广西",
+      "Authority":"管理员"
+    },
+    {
+      "username": "www",
+      "password": "123",
+      "time": 1629981201492,
+      "address":"广西",
+      "Authority":"管理员"
+    },
+    {
+      "username": "eee",
+      "password": "123",
+      "time": 1629981201492,
+      "address":"广西",
+      "Authority":"管理员"
+    },
+    {
+      "username": "tttt",
+      "password": "123",
+      "time": 1629994053174,
+      "address":"广西",
+      "Authority":"管理员"
+    },
+    {
+      "username": "gggg",
+      "password": "123",
+      "time": 1629994053174,
+      "address":"广西",
+      "Authority":"管理员"
+    }
+  ]
+}
