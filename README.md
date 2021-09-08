@@ -1,3 +1,8 @@
+# 电商后台系统
+## 项目技术栈：vue、elementui、json
+
+
+
 # manage
 
 ## Project setup
